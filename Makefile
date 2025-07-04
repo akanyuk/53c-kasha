@@ -11,6 +11,8 @@ all: build
 build: $(PARTS:%=build/%.bin.zx0) ## Default: build project
 	@printf "\033[32mBuilding '$(PROJECT_NAME)'\033[0m\n"
 
+	mkdir -p build
+
 	rm -f build/*.trd
 
 	sjasmplus --fullpath --color=off --inc=src/. \
