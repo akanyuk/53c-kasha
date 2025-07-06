@@ -111,7 +111,7 @@ SmkShftLen	ld bc, 32 * 12
 	ret
 
 RndLoop	
-	ld b, 81
+	ld b, 119
 mainLoop	push bc
 	ld bc, #5800
 	ld hl, #8000	
