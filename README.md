@@ -1,4 +1,4 @@
-# 53c kasha
+# 53c kasha by apeape^Outsiders
 
 ZX Spectrum 256 bytes intro
 
