@@ -1,6 +1,8 @@
-# ???
+# 53c kasha
 
-ZX Spectrum intro
+ZX Spectrum 256 bytes intro
+
+Special for [DiHalt 2025 Summer](http://dihalt.org.ru/)
 
 ---
 
